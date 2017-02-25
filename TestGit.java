@@ -13,6 +13,7 @@ public class TestGit {
 
     /**
      * @param args the command line arguments
+     * @author Artus
      */
     public static void main(String[] args) {
         // TODO code application logic here
