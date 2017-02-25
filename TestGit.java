@@ -17,6 +17,7 @@ public class TestGit {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("3232");
+        System.out.print("2222");
     }
     
 }
